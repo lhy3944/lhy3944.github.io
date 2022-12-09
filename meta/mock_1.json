@@ -1,0 +1,81 @@
+{
+  "providerMetadata": {
+    "layout": [
+      {
+        "id": "deco_img1",
+        "subtype": "Sticker",
+        "attributes": {
+          "size": {
+            "width": 1920,
+            "height": 1080
+          },
+          "origin": {
+            "x": 0,
+            "y": -1
+          }
+        },
+        "componentType": "Component"
+      },
+      {
+        "id": "deco_img2",
+        "subtype": "Sticker",
+        "attributes": {
+          "size": {
+            "width": 1452,
+            "height": 730
+          },
+          "origin": {
+            "x": 244,
+            "y": 174
+          }
+        },
+        "componentType": "Component"
+      },
+      {
+        "id": "pp1_200w_200h_150lead",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "RockSalt",
+          "size": {
+            "width": 200,
+            "height": 200
+          },
+          "origin": {
+            "x": 5,
+            "y": 11
+          },
+          "fontsize": 30,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "left",
+          "font-Weight": 400,
+          "text-all-caps": false,
+          "text-line-spacing": 150,
+          "max-character-count": 999
+        },
+        "componentType": "Component"
+      }
+    ],
+    "components": [
+      {
+        "id": "deco_img1",
+        "attributes": {
+          "location": "https://cdn.dev.showit.sbcsvl.com/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LmRldi5zaG93aXQuc2Jjc3ZsLmNvbS9jY3Jlc291cmNlLzMuMC9hcGkvZG93bmxvYWQvdXMtd2VzdC0yOjUyN2RiMDBhLTdiN2EtNGRmNy1iZmNlLWRkY2Q3N2UzYmY5Yi9wb3J0YWxmb2xkZXIvYzIyOTNmYzgtZWY5ZC01MmJlLThjMjMtMjc0MzJlMjI5ODli"
+        }
+      },
+      {
+        "id": "deco_img2",
+        "attributes": {
+          "location": "https://cdn.dev.showit.sbcsvl.com/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LmRldi5zaG93aXQuc2Jjc3ZsLmNvbS9jY3Jlc291cmNlLzMuMC9hcGkvZG93bmxvYWQvdXMtd2VzdC0yOjUyN2RiMDBhLTdiN2EtNGRmNy1iZmNlLWRkY2Q3N2UzYmY5Yi9wb3J0YWxmb2xkZXIvMDg3MDQ5NTQtZGI0NS04OWZhLWQ4NzUtNzQxNjNmZDQ5NDc5"
+        }
+      },
+      {
+        "id": "pp1_200w_200h_150lead",
+        "attributes": {
+          "color": "#fe0000",
+          "content": "youtube"
+        }
+      }
+    ]
+  }
+}

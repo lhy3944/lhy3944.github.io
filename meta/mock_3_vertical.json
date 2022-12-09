@@ -1,0 +1,268 @@
+{
+  "providerMetadata": {
+    "id": "a34a0e9ed62d47ae83e131212397b8fb",
+    "componentType": "Layout",
+    "attributes": {
+      "type": ["typeImage1", "styleTop"],
+      "state": "PublishedUsed",
+      "orientation": "Portrait",
+      "searchKeyword": {
+        "imageTag": [
+          "가정의달",
+          "부부의날",
+          "반지",
+          "주얼리",
+          "커플링",
+          "커플반지",
+          "웨딩",
+          "결혼"
+        ],
+        "contentTag": ["상품", "신제품"],
+        "seasonalTag": ["봄", "봄맞이", "꽃"]
+      },
+      "stateChangeDate": 1652343626083,
+      "templateRanking": 686
+    },
+    "version": 6,
+    "created": 1652336417319,
+    "lastModified": 1653268641289,
+    "label": "KO222001_fas_v01_vertical",
+    "location": "https://cdn.prod.api.promota.net/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LnByb2QuYXBpLnByb21vdGEubmV0L2NjcmVzb3VyY2UvMy4wL2FwaS9kb3dubG9hZC91cy13ZXN0LTI6MDdjYzU2MDEtYzU1OS00N2Q0LTg2OGItZmY5MmJlZTkzM2IxL3BvcnRhbGZvbGRlci9mYjhiMDNlYy01ODgxLTczMTEtN2JhMy1kYTY4YWJiYWMxMGY",
+    "thumbnail": "https://cdn.prod.api.promota.net/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LnByb2QuYXBpLnByb21vdGEubmV0L2NjcmVzb3VyY2UvMy4wL2FwaS9kb3dubG9hZC91cy13ZXN0LTI6MDdjYzU2MDEtYzU1OS00N2Q0LTg2OGItZmY5MmJlZTkzM2IxL3BvcnRhbGZvbGRlci9mYjhiMDNlYy01ODgxLTczMTEtN2JhMy1kYTY4YWJiYWMxMGY",
+    "tags": {
+      "ko_keywords": ["ko"],
+      "ko_productcategories": ["ae5b1eff35cf4d2db8f3bad6efb95985"]
+    },
+    "categories": {
+      "ko": ["이벤트"]
+    },
+    "curatedTags": [],
+    "layout": [
+      {
+        "id": "img1",
+        "componentType": "Component",
+        "subtype": "Image",
+        "attributes": {
+          "size": {
+            "width": 782,
+            "height": 564
+          },
+          "origin": {
+            "x": 151,
+            "y": 939
+          }
+        }
+      },
+      {
+        "id": "deco_img2",
+        "componentType": "Component",
+        "subtype": "Sticker",
+        "attributes": {
+          "size": {
+            "width": 1080,
+            "height": 1920
+          },
+          "origin": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "deco_img3",
+        "componentType": "Component",
+        "subtype": "Sticker",
+        "attributes": {
+          "size": {
+            "width": 306,
+            "height": 135
+          },
+          "origin": {
+            "x": 379,
+            "y": 841
+          }
+        }
+      },
+      {
+        "id": "h1_700w_39h_39lead_vcenter",
+        "componentType": "Component",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "NEXONLv1GothicLowOTF-Light",
+          "size": {
+            "width": 700,
+            "height": 39
+          },
+          "origin": {
+            "x": 190,
+            "y": 340
+          },
+          "fontsize": 37,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "center",
+          "font-Weight": 300,
+          "text-all-caps": false,
+          "vertical-center": true,
+          "text-line-spacing": 39,
+          "max-character-count": 999
+        }
+      },
+      {
+        "id": "h2_800w_133h_133lead_vcenter",
+        "componentType": "Component",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "NEXONLv1GothicLowOTF-Regular",
+          "size": {
+            "width": 800,
+            "height": 133
+          },
+          "origin": {
+            "x": 140,
+            "y": 487
+          },
+          "fontsize": 136,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "center",
+          "font-Weight": 400,
+          "text-all-caps": false,
+          "vertical-center": true,
+          "text-line-spacing": 133,
+          "max-character-count": 999
+        }
+      },
+      {
+        "id": "h3_800w_109h_109lead_vcenter",
+        "componentType": "Component",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "NEXONLv1GothicLowOTF-Light",
+          "size": {
+            "width": 800,
+            "height": 109
+          },
+          "origin": {
+            "x": 140,
+            "y": 650
+          },
+          "fontsize": 111,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "center",
+          "font-Weight": 300,
+          "text-all-caps": false,
+          "vertical-center": true,
+          "text-line-spacing": 109,
+          "max-character-count": 999
+        }
+      },
+      {
+        "id": "h4_800w_58h_58lead",
+        "componentType": "Component",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "Allura",
+          "size": {
+            "width": 800,
+            "height": 58
+          },
+          "origin": {
+            "x": 133,
+            "y": 1557
+          },
+          "fontsize": 55,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "right",
+          "font-Weight": 400,
+          "text-all-caps": false,
+          "text-line-spacing": 58,
+          "max-character-count": 999
+        }
+      },
+      {
+        "id": "h5_800w_30h_30lead_vcenter",
+        "componentType": "Component",
+        "subtype": "TextBox",
+        "attributes": {
+          "font": "NEXONLv1GothicLowOTF-Regular",
+          "size": {
+            "width": 800,
+            "height": 30
+          },
+          "origin": {
+            "x": 140,
+            "y": 1771
+          },
+          "fontsize": 29,
+          "font-style": "",
+          "multi-line": false,
+          "text-align": "center",
+          "font-Weight": 400,
+          "text-all-caps": false,
+          "vertical-center": true,
+          "text-line-spacing": 30,
+          "max-character-count": 999
+        }
+      }
+    ],
+    "components": [
+      {
+        "id": "img1",
+        "attributes": {
+          "location": "https://cdn.prod.api.promota.net/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LnByb2QuYXBpLnByb21vdGEubmV0L2NjcmVzb3VyY2UvMy4wL2FwaS9kb3dubG9hZC91cy13ZXN0LTI6MDdjYzU2MDEtYzU1OS00N2Q0LTg2OGItZmY5MmJlZTkzM2IxL3BvcnRhbGZvbGRlci82OGZmN2ZiMC1mNjFiLTYzZTktZDkxMC03YzhmNzcxMmFlYjA"
+        }
+      },
+      {
+        "id": "deco_img2",
+        "attributes": {
+          "location": "https://cdn.prod.api.promota.net/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LnByb2QuYXBpLnByb21vdGEubmV0L2NjcmVzb3VyY2UvMy4wL2FwaS9kb3dubG9hZC91cy13ZXN0LTI6MDdjYzU2MDEtYzU1OS00N2Q0LTg2OGItZmY5MmJlZTkzM2IxL3BvcnRhbGZvbGRlci80MTY4MTFkZS0zYmQ5LWM0MWItNTI2Ny0wMDUxNDAzOTM4NTM"
+        }
+      },
+      {
+        "id": "deco_img3",
+        "attributes": {
+          "location": "https://cdn.prod.api.promota.net/dispatcher/0.4/discovery/api/resolvecontent?resource=aHR0cDovL2NjcmVzb3VyY2UtaW50LnByb2QuYXBpLnByb21vdGEubmV0L2NjcmVzb3VyY2UvMy4wL2FwaS9kb3dubG9hZC91cy13ZXN0LTI6MDdjYzU2MDEtYzU1OS00N2Q0LTg2OGItZmY5MmJlZTkzM2IxL3BvcnRhbGZvbGRlci9iNzNhMzk0YS1kZDQzLTkwNTQtOTQxYi1jOWZjZWQ5YTMzNDk"
+        }
+      },
+      {
+        "id": "h1_700w_39h_39lead_vcenter",
+        "attributes": {
+          "color": "#815142",
+          "content": "커플 주얼리 전문, 엠유주얼리"
+        }
+      },
+      {
+        "id": "h2_800w_133h_133lead_vcenter",
+        "attributes": {
+          "color": "#594139",
+          "content": "M.U"
+        }
+      },
+      {
+        "id": "h3_800w_109h_109lead_vcenter",
+        "attributes": {
+          "color": "#594139",
+          "content": "jewelry"
+        }
+      },
+      {
+        "id": "h4_800w_58h_58lead",
+        "attributes": {
+          "color": "#b9895f",
+          "content": "a special jewelry "
+        }
+      },
+      {
+        "id": "h5_800w_30h_30lead_vcenter",
+        "attributes": {
+          "color": "#b9895f",
+          "content": "웨딩커플링 / 부부의날 선물 / 커플반지 / 다이아반지"
+        }
+      }
+    ],
+    "userActionDetail": []
+  }
+}
